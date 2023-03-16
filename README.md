@@ -16,3 +16,5 @@ git commit -m "Add version $VERSION"
 git tag $VERSION
 git push
 ```
+
+Then, publish a new release including both these files with a release title equal to the version (example release [here](https://github.com/adzerk/s3fs-arm/releases/tag/1.91)).
